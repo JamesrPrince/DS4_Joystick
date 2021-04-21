@@ -5,7 +5,7 @@
 }
 
 .container {
-    width: 100%;
+    width: 80%;
     min-height: 100vh;
     padding-left: 8%;
     padding-right: 8%;
@@ -51,6 +51,7 @@ nav ul li a {
     font-size: 14px;
 
 }
+
 nav ul li a:hover {
     color: #ff53a4;
 }
@@ -234,10 +235,10 @@ button:hover {
 
     }
 
-    
+
     .col-1 h3 {
         font-size: 15px;
 
     }
 
-}   
+}
